@@ -1,5 +1,6 @@
-# 열심히 뭔갈 배우려하는 개발자입니다
 <div width=100% align=center>
+  # 열심히 뭔갈 배우려하는 개발자입니다
+  
   <a href="https://picrew.me/share?cd=r45YSGOos2">pfp</a>
   <p><sup>귀여운 유전자는 분명히 존재합니다 refer: <a href="https://github.com/qwreey">Qwreey</a></sup></p>
 
