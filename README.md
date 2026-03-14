@@ -1,9 +1,6 @@
-<div width=100% align=center>
-  <h1>열심히 뭔갈 배우려하는 개발자입니다</h1>
-  
+<div width=100% align=center>  
   <a href="https://picrew.me/share?cd=r45YSGOos2">pfp</a>
   <p><sup>귀여운 유전자는 분명히 존재합니다 refer: <a href="https://github.com/qwreey">Qwreey</a></sup></p>
-
 
   c 와 러스트 그리고 하스켈을 좋아합니다 또한 오픈소스도
 </div>
