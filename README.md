@@ -1,4 +1,6 @@
-<div width=100% align=center>  
+<div width=100% align=center>
+  <img width="294" height="147" alt="Image" src="https://github.com/user-attachments/assets/a34a5851-bc10-4a3c-818e-2a7e07373af9" />
+
   <a href="https://picrew.me/share?cd=r45YSGOos2">pfp</a>
   <p><sup>귀여운 유전자는 분명히 존재합니다 refer: <a href="https://github.com/qwreey">Qwreey</a></sup></p>
 
