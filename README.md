@@ -5,6 +5,8 @@
   <p><sup>귀여운 유전자는 분명히 존재합니다 refer: <a href="https://github.com/qwreey">Qwreey</a></sup></p>
 
   c 와 러스트 그리고 하스켈을 좋아합니다 또한 오픈소스도
+
+  if finding my luau project with pesde, please refer kimpure/[project name]
 </div>
 
 <hr>
