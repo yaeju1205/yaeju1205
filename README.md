@@ -10,7 +10,7 @@
 
   오픈소스 또한 좋아합니다
 
-  if finding my luau project with pesde, please refer kimpure/[project name]
+  if finding my luau project on pesde, please refer kimpure/[project name]
 </div>
 
 <hr>
