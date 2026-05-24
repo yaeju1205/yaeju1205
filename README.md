@@ -9,7 +9,6 @@
   오픈소스 또한 좋아합니다 <br>
 
   if finding my luau project on pesde, please refer kimpure/[project name] <br>
-  if finding on my high school? refer jeong sunwoo <br>
 </div>
 
 <hr>
