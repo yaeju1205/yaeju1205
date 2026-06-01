@@ -3,6 +3,10 @@
 그의 이름은 예주, 주로 로우레벨개발을 합니다 <br>
 <p><sup>귀여운 유전자는 분명히 존재합니다 refer: <a href="https://github.com/qwreey">Qwreey</a></sup></p>
 
+
+os-sw student (jeong sunwoo)
+
+
 에디터로는 neovim 과 vscode 를 사용하고 <br>
 c 와 rust 그리고 haskell 을 자주 사용합니다 <br>
 오픈소스 또한 좋아합니다 <br>
