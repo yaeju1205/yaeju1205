@@ -4,7 +4,7 @@
 <p><sup>귀여운 유전자는 분명히 존재합니다 refer: <a href="https://github.com/qwreey">Qwreey</a></sup></p>
 
 
-os-sw student (jeong sunwoo)
+os-sw student (jeong sunwoo 정선우)
 
 
 에디터로는 neovim 과 vscode 를 사용하고 <br>
