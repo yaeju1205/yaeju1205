@@ -18,7 +18,7 @@ if finding my luau project on pesde, please refer kimpure/[project name] <br>
 <hr>
 
 <div width=100% align=center>
-  <img src="https://github-readme-stats-one-psi-26.vercel.app/api?username=yaeju1205&show_icons=true&hide_border=true&count_private=true&bg_color=1a1b27" alt="Certy's GitHub Stats" />
-  <img src="https://github-readme-stats-one-psi-26.vercel.app/api/top-langs/?username=yaeju1205&layout=compact&hide_border=true&bg_color=1a1b27" alt="Certy's Top Languages" />
+  <img src="https://github-readme-stats-one-psi-26.vercel.app/api?username=yaeju1205&show_icons=true&hide_border=true" alt="Yaeju's GitHub Stats" />
+  <img src="https://github-readme-stats-one-psi-26.vercel.app/api/top-langs/?username=yaeju1205&layout=compact&hide_border=true" alt="Yaeju's Top Languages" />
   
 </div>
