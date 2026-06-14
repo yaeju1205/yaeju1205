@@ -7,9 +7,11 @@
 os-sw student (jeong sunwoo 정선우)
 
 
-에디터로는 neovim 과 vscode 를 사용하고 <br>
-c 와 rust 그리고 haskell 을 자주 사용합니다 <br>
-오픈소스 또한 좋아합니다 <br>
+에디터로는 neovim 과 vscode 를 사용합니다 <br>
+c 와 rust 그리고 haskell 를 사용합니다 <br>
+
+haskell 과 rust 를 좋아합니다
+vim 과 neovim 를 좋아합니다
 
 if finding my luau project on pesde, please refer kimpure/[project name] <br>
 
