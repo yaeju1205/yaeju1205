@@ -4,7 +4,6 @@
 
 
 <p><sup>귀여운 유전자는 분명히 존재합니다 refer: <a href="https://github.com/qwreey">Qwreey</a></sup></p>
-<p><sup>pfp from https://picrew.me/share?cd=U5tBOrtKwe</sup></p>
 
 
 에디터로는 neovim 과 vscode 를 사용합니다 <br>
